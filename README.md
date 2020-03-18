@@ -1,7 +1,4 @@
-# .lua
-gg.toast"test"
 
- 
 function HOME()
   HM = gg.choice({
     " 鈹孾RECOMMENDED]\n馃帒 SAFE MODE",
